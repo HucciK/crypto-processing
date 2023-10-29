@@ -1,8 +1,8 @@
 package payments
 
 import (
-	"github.com/HucciK/crypto-processing/internal/core"
-	"github.com/HucciK/crypto-processing/internal/processing/config"
+	"github.com/HucciK/crypto-processing/core"
+	"github.com/HucciK/crypto-processing/processing/config"
 	"github.com/google/uuid"
 	"time"
 )

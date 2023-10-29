@@ -11,7 +11,7 @@ package mock_observer
 import (
 	reflect "reflect"
 
-	core "github.com/HucciK/crypto-processing/internal/core"
+	core "github.com/HucciK/crypto-processing/core"
 	gomock "go.uber.org/mock/gomock"
 )
 

@@ -1,6 +1,6 @@
 package tron
 
-import "github.com/HucciK/crypto-processing/internal/core"
+import "github.com/HucciK/crypto-processing/core"
 
 type TronWallet struct {
 	Chain      core.Chain

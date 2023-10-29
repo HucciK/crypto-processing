@@ -2,13 +2,13 @@ package processing
 
 import (
 	"context"
-	"github.com/HucciK/crypto-processing/internal/core"
-	"github.com/HucciK/crypto-processing/internal/processing/api"
-	"github.com/HucciK/crypto-processing/internal/processing/config"
-	"github.com/HucciK/crypto-processing/internal/processing/crypto/tron"
-	"github.com/HucciK/crypto-processing/internal/processing/observer"
-	"github.com/HucciK/crypto-processing/internal/processing/payments"
-	"github.com/HucciK/crypto-processing/internal/processing/qr"
+	"github.com/HucciK/crypto-processing/core"
+	"github.com/HucciK/crypto-processing/processing/api"
+	"github.com/HucciK/crypto-processing/processing/config"
+	"github.com/HucciK/crypto-processing/processing/crypto/tron"
+	"github.com/HucciK/crypto-processing/processing/observer"
+	"github.com/HucciK/crypto-processing/processing/payments"
+	"github.com/HucciK/crypto-processing/processing/qr"
 )
 
 type paymentsService interface {

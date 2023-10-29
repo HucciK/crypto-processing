@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/HucciK/crypto-processing/internal/core"
-	"github.com/HucciK/crypto-processing/internal/processing/crypto/tron"
+	"github.com/HucciK/crypto-processing/core"
+	"github.com/HucciK/crypto-processing/processing/crypto/tron"
 	"github.com/stretchr/testify/require"
 	"testing"
 )

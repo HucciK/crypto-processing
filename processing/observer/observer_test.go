@@ -2,10 +2,10 @@ package observer
 
 import (
 	"context"
-	"github.com/HucciK/crypto-processing/internal/core"
-	"github.com/HucciK/crypto-processing/internal/processing/config"
-	"github.com/HucciK/crypto-processing/internal/processing/crypto/tron"
-	mock_observer "github.com/HucciK/crypto-processing/internal/processing/observer/mocks"
+	"github.com/HucciK/crypto-processing/core"
+	"github.com/HucciK/crypto-processing/processing/config"
+	"github.com/HucciK/crypto-processing/processing/crypto/tron"
+	mock_observer "github.com/HucciK/crypto-processing/processing/observer/mocks"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/mock/gomock"
 	"testing"

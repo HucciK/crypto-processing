@@ -3,9 +3,9 @@ package api
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/HucciK/crypto-processing/internal/core"
-	"github.com/HucciK/crypto-processing/internal/errors"
-	"github.com/HucciK/crypto-processing/internal/processing/crypto/tron"
+	"github.com/HucciK/crypto-processing/core"
+	"github.com/HucciK/crypto-processing/errors"
+	"github.com/HucciK/crypto-processing/processing/crypto/tron"
 	"io"
 	"net/http"
 )

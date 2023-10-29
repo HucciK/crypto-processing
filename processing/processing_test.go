@@ -2,7 +2,7 @@ package processing
 
 import (
 	"context"
-	"github.com/HucciK/crypto-processing/internal/processing/config"
+	"github.com/HucciK/crypto-processing/processing/config"
 	"github.com/stretchr/testify/require"
 	"testing"
 	"time"

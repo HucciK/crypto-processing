@@ -2,9 +2,9 @@ package observer
 
 import (
 	"context"
-	"github.com/HucciK/crypto-processing/internal/core"
-	"github.com/HucciK/crypto-processing/internal/errors"
-	"github.com/HucciK/crypto-processing/internal/processing/config"
+	"github.com/HucciK/crypto-processing/core"
+	"github.com/HucciK/crypto-processing/errors"
+	"github.com/HucciK/crypto-processing/processing/config"
 	"time"
 )
 

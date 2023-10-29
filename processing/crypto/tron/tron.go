@@ -2,7 +2,7 @@ package tron
 
 import (
 	"encoding/hex"
-	"github.com/HucciK/crypto-processing/internal/core"
+	"github.com/HucciK/crypto-processing/core"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/mr-tron/base58"
 )
